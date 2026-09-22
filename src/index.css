@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+html, body, #root {
+  overscroll-behavior-y: none;
+  overscroll-behavior-x: none;
+  overscroll-behavior: none;
+  touch-action: pan-x pan-y;
+}
+

@@ -1,0 +1,6 @@
+{
+  "name": "Video to audio converter by PlayVear",
+  "description": "Convert video files (MP4, WebM, MKV, MOV, etc.) to high-quality MP3 and lossless WAV audio with built-in video trimming and download by PlayVear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
